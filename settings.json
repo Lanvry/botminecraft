@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "Herobrine",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "456732.aternos.me",
+    "port": 27266,
+    "version": "1.19.1"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "arjnln"
+    },
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "Hai Welcome...",
+        "Im alone now :( ",
+        "Lets Explore The world ",
+        "Kafka? I Think he created this server"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
